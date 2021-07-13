@@ -2,7 +2,7 @@
 
 **Description:** Proxy Application. 3D stencil calculation with Adaptive Mesh Refinement (AMR), proxy for CTH.
 
-**URL:** https://github.com/Mantevo/miniAM 
+**URL:** https://github.com/Mantevo/miniAMR 
 
 **Team:**  
 
