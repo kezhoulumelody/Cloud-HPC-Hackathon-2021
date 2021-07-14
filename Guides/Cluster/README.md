@@ -89,7 +89,7 @@ srun -l hostname
 
 ```
 chmod +x example.sh
-sbatch -N 1 -n 64 -P c6gn example.sh
+sbatch -N 1 -n 64 -p c6gn example.sh
 ```
 
 This command tells `Slurm` to run our `example.sh` script on 1 Node, with 64 cores, on partition "c6g".
